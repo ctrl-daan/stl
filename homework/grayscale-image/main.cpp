@@ -2,6 +2,7 @@
 #include <array>
 #include <cstdint>
 #include <forward_list>
+#include <iterator>
 
 #include "compression.hpp"
 
