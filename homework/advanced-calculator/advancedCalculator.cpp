@@ -89,7 +89,6 @@ ErrorCode process(std::string input, double* out) {
         } else {
             outErr = key;
         }
-    }
-    
+    }    
     return outErr;
 }
